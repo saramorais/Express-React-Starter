@@ -10,9 +10,5 @@ PGDATABASE=[databasename]
 PGPASSWORD=null
 PGPORT=5432
 
-create .gitignore
-node_modules
-.env
-
 To run:
 npm run dev
